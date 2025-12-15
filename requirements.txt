@@ -1,0 +1,10 @@
+ultralytics
+opencv-python
+numpy
+
+# Optional (only if you install mediapipe on a supported Python version):
+# mediapipe
+
+# Notes:
+# - This project uses winsound (built-in on Windows) for audio, so no extra audio package is required.
+# - If you plan to use MediaPipe Hands, install mediapipe on Python 3.10/3.11 64-bit (or use conda).
